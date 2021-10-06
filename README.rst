@@ -1,3 +1,8 @@
+.. image:: https://readthedocs.org/projects/hosting-docs/badge/?version=latest
+  :target: https://hosting-docs.readthedocs.io/en/latest/?badge=latest
+  :alt: Documentation Status
+
+
 Template for the Read the Docs tutorial
 =======================================
 
